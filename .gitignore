@@ -1,1 +1,8 @@
 golem-cli/
+shopping-cart/target/
+
+go-golem-demo/*.wasm
+go-golem-demo/go_golem_demo/
+go-golem-demo/adapters/
+
+.DS_Store
